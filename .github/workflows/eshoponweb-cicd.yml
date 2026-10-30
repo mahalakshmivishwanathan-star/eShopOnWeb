@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 2f01a208-5a62-459c-bf9d-637a526f7c03"
+  SUBSCRIPTION-ID: 2f01a208-5a62-459c-bf9d-637a526f7c03
   WEBAPP-NAME: eshoponweb-webapp66816807
 
 jobs:
